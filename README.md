@@ -22,11 +22,11 @@ We welcome contributions, suggestions, and feedback!
 
 - The mod list is under [*modlist.md*](https://github.com/thedutchington/AwesomeGoodModsExtreme/blob/main/modlist.md)
 
-# Contributors:
+# Contributors (Github/Minecraft):
 
-- MantureYT — Founding Father  
-- JayKing014 — Founding Father  
-- I_4M_DUTCH — GitHub Repository Manager & Mod Contributor
+- [D3ssur3](https://github.com/D3ssur3)/MantureYT — Founding Father  
+- [JayKing014](https://github.com/JayKing014) — Founding Father  
+- [thedutchington](https://github.com/thedutchington)/I_4M_DUTCH — GitHub Repository Manager & Mod Contributor
 
 ---
 
