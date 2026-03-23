@@ -2,7 +2,7 @@
 
 **Current Version:** v0.0.1.3 (Alpha 1.3)
 
-This repository serves as the central tracker for all updates, changes, and issues related to the Abyss modpack.
+This repository serves as the central tracker for all updates, changes, and issues related to the AGME modpack.
 
 We welcome contributions, suggestions, and feedback!
 
@@ -24,9 +24,11 @@ We welcome contributions, suggestions, and feedback!
 
 # Contributors:
 
-- MantureYT — Founding Father  
-- JayKing014 — Founding Father  
-- I_4M_DUTCH — GitHub Repository Manager & Mod Contributor
+- MantureYT
+
+- JayKing014
+
+- I_4M_DUTCH
 
 ---
 
