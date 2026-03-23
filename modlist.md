@@ -12,11 +12,12 @@
 - Artifacts (R 9.5.16)
 - Better Furnaces Reforged (B 1.1.2518.1)
 - **_Building Gadgets (R 2-1.0.8)_**
-- CarryOn (R. 2.1.2.7)
+- CarryOn (R 2.1.2.7)
 - Clumps (R 12.0.0.4)
 - Controlling (R 12.0.2)
-    - Create (R 6.0.8)
+- Create (R 6.0.8)
     - Create Connected (R 1.1.13)
+    - **_Create: Crafts & (More) Additions (R 1.9.0)_**
     - Create Enchantment Industry (R 1.3.3)
     - Create New Age (R 1.1.7)
     - Create Steam 'n' Rails (R 1.7.2)
@@ -43,11 +44,13 @@
 - Security Craft (R 1.10.1)
 - Simply Backpacks (R 2.1.5)
 - Sophisticated Backpacks (R 3.24.29.1588)
+- _**Sophisticated Storage**_ (R 1.4.29.1527)
 - Sound Physics (R 1.5.1)
 - Tectonic (R 3.0.17)
 - Terralith (R 2.5.4)
 - _**Visual Workbench**_ (R 8.0.1)
 - Waystones (R 14.1.20)
+- _**When Dungeons Arise - Forge!** (R 2.1.68)_
 - _World Edit_ (R 7.2.15)
 - Xaero's Minimap (R 25.3.10)
 - Xaero's World Map (R 1.40.11)
