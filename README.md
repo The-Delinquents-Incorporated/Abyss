@@ -30,4 +30,5 @@ We welcome contributions, suggestions, and feedback!
 
 ---
 
-Copyright © 2026 The Delinquents Incorporated, All Rights Reserved
+- Copyright © 2026 The Delinquents Incorporated, All Rights Reserved. All documents in this repository.
+- Copyright © 2026 Individual mod authors. The Delinquents Incorporated does not claim ownership of any included mods.
