@@ -1,6 +1,6 @@
 # ABYSS MDPK
 
-**Current Version:** v0.0.1.3 (Alpha 1.3)
+**Current Version:** v0.0.1.5 (Alpha 1.5)
 
 This repository serves as the central tracker for all updates, changes, and issues related to the Abyss modpack.
 
