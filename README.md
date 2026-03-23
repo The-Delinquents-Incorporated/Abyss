@@ -20,7 +20,7 @@ We welcome contributions, suggestions, and feedback!
 
 # Mod List
 
-- The mod list is under [*modlist.md*](https://github.com/thedutchington/AwesomeGoodModsExtreme/blob/main/modlist.md)
+- The mod list is under [*modlist.md*](https://github.com/The-Delinquents-Incorporated/Abyss/blob/alpha1.4/modlist.md)
 
 # Contributors (Github/Minecraft):
 
