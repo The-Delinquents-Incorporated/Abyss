@@ -1,6 +1,6 @@
-# ABYSS MDPK Alpha 1.3-Alpha
-## Minecraft JAVA Version 1.20.1
-### The version number is indicated following thee mod name as followes:
+# ABYSS MDPK Alpha 1.3-Maeta
+## Minecraft JAVA Version 1.20.1 (Forge 47.4.10)
+### The version number is indicated following thee mod name as follows:
 - A = Alpha
 - B = Beta
 - R = Release
