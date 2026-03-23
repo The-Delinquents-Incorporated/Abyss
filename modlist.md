@@ -11,7 +11,7 @@
 - AppleSkin (R 2.5.1)
 - Artifacts (R 9.5.16)
 - Better Furnaces Reforged (B 1.1.2518.1)
-- _Building Gadgets (R 2-1.0.8)_
+- **_Building Gadgets (R 2-1.0.8)_**
 - CarryOn (R. 2.1.2.7)
 - Clumps (R 12.0.0.4)
 - Controlling (R 12.0.2)
@@ -25,15 +25,15 @@
 - Cyclic (R 1.13.6)
 - Dynamic Lights (R 1.0.10)
 - Enchantment Descriptions (R 17.1.21)
-- Enchantment Infuser (R 8.0.3)
+- **_Enchantment Infuser (R 8.0.3)_**
 - Farmer's Delight (R 1.2.10)
 - Jade (R 11.13.2)
 - Just Enough Items (R 15.20.0.112)
 - Just Enough Resources (B 1.4.0.247)
 - Lootr (R 0.7.35.94)
-- _Mace Port (UNK Version)_
-- _Majrusz’s Enchantments_ (R 1.10.8)
-- _More Enchantments_ (R 1.4.3)
+- _**Mace Port (UNK Version)**_
+- _**Majrusz’s Enchantments**_ (R 1.10.8)
+- _**More Enchantments**_ (R 1.4.3)
 - Mouse Tweaks (R 2.25.1)
 - Mystical Agriculture (R 7.0.23)
 - Not Enough Animations (R 1.11.3)
@@ -46,7 +46,7 @@
 - Sound Physics (R 1.5.1)
 - Tectonic (R 3.0.17)
 - Terralith (R 2.5.4)
-- _Visual Workbench_ (R 8.0.1)
+- _**Visual Workbench**_ (R 8.0.1)
 - Waystones (R 14.1.20)
 - _World Edit_ (R 7.2.15)
 - Xaero's Minimap (R 25.3.10)
