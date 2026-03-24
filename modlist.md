@@ -1,4 +1,4 @@
-# ABYSS MDPK `Alpha 1.4-Maeta` (Alpha 1.4.0 Commit-14)
+# ABYSS MDPK `Alpha 1.4-Maeta` (Alpha 1.4.0 Commit-15)
 Last updated: Monday, MArch 23rd @ 6:28pm
 ## Minecraft JAVA Version 1.20.1 (Forge 47.4.10)
 ### The version number is indicated following thee mod name as follows:
@@ -57,7 +57,7 @@ Last updated: Monday, MArch 23rd @ 6:28pm
 - Xaero's Minimap (R 25.3.10)
 - Xaero's World Map (R 1.40.11)
 ---
-# ALL MMOD CHANGES SINCE LADT UPDATE
+# ALL MMOD CHANGES SINCE LAST UPDATE
 ### Previous Update: Alpha 1.3 Maeta (Alpha 1.3.2)
 - Building Gadets?
 - Mace Port ?
