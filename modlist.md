@@ -1,4 +1,5 @@
-# ABYSS MDPK Alpha 1.4-Maeta
+# ABYSS MDPK `Alpha 1.4-Maeta` (Alpha 1.4.0 PR-13)
+Last updated: Monday, MArch 23rd @ 6:28pm
 ## Minecraft JAVA Version 1.20.1 (Forge 47.4.10)
 ### The version number is indicated following thee mod name as follows:
 - A = Alpha
@@ -6,6 +7,7 @@
 - R = Release
 ---
 - If a specific mod file isn’t available, use the latest version and resolve any compatibility issues that may occur when launching Minecraft or when joining the server.
+- Any mod entry outlines in ***bold and italicized*** text means: ((ENTER HERE))
 ---
 - Alex's Mobs (R 1.22.9)
 - AppleSkin (R 2.5.1)
@@ -54,3 +56,7 @@
 - _World Edit_ (R 7.2.15)
 - Xaero's Minimap (R 25.3.10)
 - Xaero's World Map (R 1.40.11)
+---
+# ALL MMOD CHANGES SINCE LADT UPDATE
+### Previous Update: Alpha 1.3 Maeta (Alpha 1.3.2)
+- ADD ALL NEW MOD ADDITIONS HERE AND BELOW
