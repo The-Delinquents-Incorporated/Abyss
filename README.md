@@ -24,8 +24,8 @@ We welcome contributions, suggestions, and feedback!
 
 # Contributors (Github/Minecraft):
 
-- [D3ssur3](https://github.com/D3ssur3)/MantureYT — Founding Father  
-- [JayKing014](https://github.com/JayKing014) — Founding Father  
+- [D3ssur3](https://github.com/D3ssur3)/MantureYT — Founding Father  (Co-Owner)
+- [JayKing014](https://github.com/JayKing014) — Founding Father  (Co-Owner)
 - [I4mDutch](https://github.com/I4mDutch)/I_4M_DUTCH — GitHub Repository Manager & Mod Contributor
 
 ---
