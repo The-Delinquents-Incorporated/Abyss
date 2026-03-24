@@ -1,5 +1,5 @@
-# ABYSS MDPK `Alpha 1.4-Maeta` (Alpha 1.4.0 Commit-15)
-Last updated: Monday, MArch 23rd @ 6:28pm
+# ABYSS MDPK `Alpha 1.4-Maeta` (Alpha 1.4.0 Commit-17)
+Last updated: Monday, March 24th, 5:51am
 ## Minecraft JAVA Version 1.20.1 (Forge 47.4.10)
 ### The version number is indicated following thee mod name as follows:
 - A = Alpha
@@ -7,7 +7,7 @@ Last updated: Monday, MArch 23rd @ 6:28pm
 - R = Release
 ---
 - If a specific mod file isn’t available, use the latest version and resolve any compatibility issues that may occur when launching Minecraft or when joining the server.
-- Any mod entry outlines in ***bold and italicized*** text means: ((ENTER HERE))
+- Any mod entry outlines in ***bold and italicized*** text means: a mod has been ADDED to this release, which is viewable in a smaller list below under "ALL MOD CHANGES SINCE LAST UPDATE" to see it in a simpler view.
 ---
 - Alex's Mobs (R 1.22.9)
 - AppleSkin (R 2.5.1)
@@ -57,12 +57,14 @@ Last updated: Monday, MArch 23rd @ 6:28pm
 - Xaero's Minimap (R 25.3.10)
 - Xaero's World Map (R 1.40.11)
 ---
-# ALL MMOD CHANGES SINCE LAST UPDATE
+# ALL MOD CHANGES SINCE LAST UPDATE
 ### Previous Update: Alpha 1.3 Maeta (Alpha 1.3.2)
-- Building Gadets?
-- Mace Port ?
-- World Edit
-- Enchant Infuser
-- Visual Workbench
-- More Enchantments
+- Building Gadgets
+- Create: Crafts & Additions
+- Enchantment Infuser
 - Majrusz's Enchantments
+- Mace Port
+- More Enchantments
+- Sophisticated Storage
+- Visual Workbench
+- When Dungeons Arise
