@@ -1,47 +1,72 @@
-# ABYSS MDPK Alpha 1.3-Alpha
-## Minecraft JAVA Version 1.20.1
-### The version number is indicated following thee mod name as followes:
+# ABYSS MDPK `Alpha 1.4-Maeta` (Alpha 1.4.0 Commit-20)
+Last updated: Wednesday, March 25th, 9:12am
+## Minecraft JAVA Version 1.20.1 (Forge 47.4.10)
+### The version number is indicated following thee mod name as follows:
 - A = Alpha
 - B = Beta
 - R = Release
 ---
 - If a specific mod file isn’t available, use the latest version and resolve any compatibility issues that may occur when launching Minecraft or when joining the server.
+- Any mod entry outlines in ***bold and italicized*** text means: a mod has been ADDED to this release, which is viewable in a smaller list below under "ALL MOD CHANGES SINCE LAST UPDATE" to see it in a simpler view.
 ---
-
 - Alex's Mobs (R 1.22.9)
 - AppleSkin (R 2.5.1)
 - Artifacts (R 9.5.16)
-- Better Furnaces Reforged (B 1.1.2518.1) 
-- CarryOn (R. 2.1.2.7)
-- Clumps  (R 12.0.0.4)
-- Controlling  (R 12.0.2)
-- Create  (R 6.0.8)
-   - Create Connected (R 1.1.13) 
-   - Create Enchantment Industry (R 1.3.3) 
-   - Create New Age  (R 1.1.7)
-   - Create Steam 'n' Rails (R 1.7.2)
-   - Create The Factory Must Grow (R 1.0.2) 
-   - Create Ultimate Factory  (R 2.2.3)
-- Cyclic  (R 1.13.6)
-- Dynamic Lights  (R 1.0.10)
-- Enchantment Descriptions  (R 17.1.21)
+- Better Furnaces Reforged (B 1.1.2518.1)
+- **_Building Gadgets (R 2-1.0.8)_**
+- CarryOn (R 2.1.2.7)
+- Clumps (R 12.0.0.4)
+- Controlling (R 12.0.2)
+- Create (R 6.0.8)
+    - Create Connected (R 1.1.13)
+    - **_Create: Crafts & (More) Additions (R 1.9.0)_**
+    - Create Enchantment Industry (R 1.3.3)
+    - Create New Age (R 1.1.7)
+    - Create Steam 'n' Rails (R 1.7.2)
+    - Create The Factory Must Grow (R 1.0.2)
+    - Create Ultimate Factory (R 2.2.3)
+- Cyclic (R 1.13.6)
+- Dynamic Lights (R 1.0.10)
+- Enchantment Descriptions (R 17.1.21)
+- **_Enchantment Infuser (R 8.0.3)_**
 - Farmer's Delight (R 1.2.10)
-- Jade  (R 11.13.2)
-- Just Enough Items (R 15.20.0.112) 
-   - Just Enough Resources  (B 1.4.0.247)
-- Lootr  (R 0.7.35.94)
-- Mouse Tweaks  (R 2.25.1)
-- Mystical Agriculture  (R 7.0.23)
-- Not Enough Animations  (R 1.11.3)
-- OpenBlocks Elevators  (R 1.9.1)
-- Ore Excavation  (R 1.13.174)
-- ProjectE  (R 1.0.1)
-- Security Craft  (R 1.10.1)
+- Jade (R 11.13.2)
+- Just Enough Items (R 15.20.0.112)
+- Just Enough Resources (B 1.4.0.247)
+- Lootr (R 0.7.35.94)
+- _**Mace Port (UNK Version)**_
+- _**Majrusz’s Enchantments**_ (R 1.10.8)
+- _**More Enchantments**_ (R 1.4.3)
+- Mouse Tweaks (R 2.25.1)
+- Mystical Agriculture (R 7.0.23)
+- Not Enough Animations (R 1.11.3)
+- OpenBlocks Elevators (R 1.9.1)
+- Ore Excavation (R 1.13.174)
+- ProjectE (R 1.0.1)
+- Security Craft (R 1.10.1)
 - Simply Backpacks (R 2.1.5)
 - Sophisticated Backpacks (R 3.24.29.1588)
+- _**Sophisticated Storage**_ (R 1.4.29.1527)
 - Sound Physics (R 1.5.1)
 - Tectonic (R 3.0.17)
 - Terralith (R 2.5.4)
+- ***Trial Chamber Backport (UNK VERSION)***
+- _**Visual Workbench**_ (R 8.0.1)
 - Waystones (R 14.1.20)
+- _**When Dungeons Arise - Forge!** (R 2.1.68)_
+- _World Edit_ (R 7.2.15)
 - Xaero's Minimap (R 25.3.10)
- - Xaero's World Map (R 1.40.11)
+- Xaero's World Map (R 1.40.11)
+---
+# ALL MOD CHANGES SINCE LAST UPDATE
+### Previous Update: Alpha 1.3 Maeta (Alpha 1.3.2)
+- Building Gadgets
+- Create: Crafts & Additions
+- Enchantment Infuser
+- Majrusz's Enchantments
+- Mace Port
+- More Enchantments
+- Sophisticated Storage
+- Trial Chamber Port
+- Visual Workbench
+- When Dungeons Arise
