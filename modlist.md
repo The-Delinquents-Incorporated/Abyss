@@ -39,6 +39,7 @@ Last updated: Wednesday, March 25th, 9:12am
 - _**More Enchantments**_ (R 1.4.3)
 - Mouse Tweaks (R 2.25.1)
 - Mystical Agriculture (R 7.0.23)
+- Mob Grinding Utils (R 1.1.0)
 - Not Enough Animations (R 1.11.3)
 - OpenBlocks Elevators (R 1.9.1)
 - Ore Excavation (R 1.13.174)
