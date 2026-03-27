@@ -22,7 +22,7 @@ We welcome contributions, suggestions, and feedback!
 
 - The mod list is under [*modlist.md*](https://github.com/The-Delinquents-Incorporated/Abyss/blob/alpha1.4/modlist.md)
 
-# Contributors (Github/Minecraft):
+# Contributors (Github/Minecraft)
 
 - [D3ssur3](https://github.com/D3ssur3)/MantureYT — Founding Father  (Co-Owner)
 - [JayKing014](https://github.com/JayKing014) — Founding Father  (Co-Owner)
