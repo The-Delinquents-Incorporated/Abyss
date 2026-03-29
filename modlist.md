@@ -1,4 +1,4 @@
-# ABYSS MDPK `Alpha 1.4-Maeta` (Alpha 1.4.0 Commit-22)
+# ABYSS MDPK `Alpha 1.4-Maeta`
 Last updated: Wednesday, March 26, 8:02am
 ## Minecraft JAVA Version 1.20.1 (Forge 47.4.10)
 ### The version number is indicated following thee mod name as follows:
