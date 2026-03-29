@@ -30,6 +30,7 @@ Last updated: Wednesday, March 26, 8:02am
 - Enchantment Descriptions (R 17.1.21)
 - **_Enchantment Infuser (R 8.0.3)_**
 - Farmer's Delight (R 1.2.10)
+- _**HT's Treechop (R 0.19.0)**_
 - Jade (R 11.13.2)
 - Just Enough Items (R 15.20.0.112)
 - Just Enough Resources (B 1.4.0.247)
@@ -45,6 +46,7 @@ Last updated: Wednesday, March 26, 8:02am
 - Ore Excavation (R 1.13.174)
 - ProjectE (R 1.0.1)
 - Security Craft (R 1.10.1)
+- _*Simple Drills (R 1.6.1)*_
 - Simply Backpacks (R 2.1.5)
 - Sophisticated Backpacks (R 3.24.29.1588)
 - _**Sophisticated Storage**_ (R 1.4.29.1527)
