@@ -46,7 +46,7 @@ Last updated: Wednesday, March 26, 8:02am
 - Ore Excavation (R 1.13.174)
 - ProjectE (R 1.0.1)
 - Security Craft (R 1.10.1)
-- _*Simple Drills (R 1.6.1)*_
+- _**Simple Drills (R 1.6.1)**_
 - Simply Backpacks (R 2.1.5)
 - Sophisticated Backpacks (R 3.24.29.1588)
 - _**Sophisticated Storage**_ (R 1.4.29.1527)
