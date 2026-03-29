@@ -43,7 +43,6 @@ Last updated: Wednesday, March 26, 8:02am
 - Mob Grinding Utils (R 1.1.0)
 - Not Enough Animations (R 1.11.3)
 - OpenBlocks Elevators (R 1.9.1)
-- Ore Excavation (R 1.13.174)
 - ProjectE (R 1.0.1)
 - Security Craft (R 1.10.1)
 - _**Simple Drills (R 1.6.1)**_
