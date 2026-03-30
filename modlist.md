@@ -26,10 +26,13 @@ Last updated: Wednesday, March 30, 5:51 am
     - Create The Factory Must Grow (R 1.0.2)
     - Create Ultimate Factory (R 2.2.3)
 - Cyclic (R 1.13.6)
+- _**Delightful Burgers (R UNK)**_
+-_**Delightful Sandwiches (R UNK)**_
 - Dynamic Lights (R 1.0.10)
 - Enchantment Descriptions (R 17.1.21)
 - **_Enchantment Infuser (R 8.0.3)_**
 - Farmer's Delight (R 1.2.10)
+- _**Hearth and Harvest (R 1.0.12)**_
 - _**HT's Treechop (R 0.19.0)**_
 - Jade (R 11.13.2)
 - Just Enough Items (R 15.20.0.112)
@@ -41,8 +44,10 @@ Last updated: Wednesday, March 30, 5:51 am
 - Mouse Tweaks (R 2.25.1)
 - Mystical Agriculture (R 7.0.23)
 - Mob Grinding Utils (R 1.1.0)
+- _**Nature's Compass (R 1.11.2)**_
 - Not Enough Animations (R 1.11.3)
 - OpenBlocks Elevators (R 1.9.1)
+- _**Ore Excavation (R 1.13.174)**_
 - ProjectE (R 1.0.1)
 - Security Craft (R 1.10.1)
 - _**Simple Drills (R 1.6.1)**_
