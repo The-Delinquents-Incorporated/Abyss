@@ -1,5 +1,5 @@
-# ABYSS MDPK `Alpha 1.4-Maeta` (Alpha 1.4.0 Commit-22)
-Last updated: Wednesday, March 26, 8:02am
+# ABYSS MDPK `Alpha 2.0-Avalon`
+Last updated: Wednesday, March 30, 5:51 am
 ## Minecraft JAVA Version 1.20.1 (Forge 47.4.10)
 ### The version number is indicated following thee mod name as follows:
 - A = Alpha
@@ -7,7 +7,7 @@ Last updated: Wednesday, March 26, 8:02am
 - R = Release
 ---
 - If a specific mod file isn’t available, use the latest version and resolve any compatibility issues that may occur when launching Minecraft or when joining the server.
-- Any mod entry outlines in ***bold and italicized*** text means: a mod has been ADDED to this release, which is viewable in a smaller list below under "ALL MOD CHANGES SINCE LAST UPDATE" to see it in a simpler view.
+- Any mod entry outlines in ***bold and italicized*** text means: a mod has been ADDED to this release.
 ---
 - Alex's Mobs (R 1.22.9)
 - AppleSkin (R 2.5.1)
@@ -26,10 +26,15 @@ Last updated: Wednesday, March 26, 8:02am
     - Create The Factory Must Grow (R 1.0.2)
     - Create Ultimate Factory (R 2.2.3)
 - Cyclic (R 1.13.6)
+- _**Delightful Burgers (R UNK)**_
+- _**Delightful Sandwiches (R UNK)**_
 - Dynamic Lights (R 1.0.10)
 - Enchantment Descriptions (R 17.1.21)
 - **_Enchantment Infuser (R 8.0.3)_**
+- _**Essential Mod (R 1.3.10.8)**_
 - Farmer's Delight (R 1.2.10)
+- _**Hearth and Harvest (R 1.0.12)**_
+- _**HT's Treechop (R 0.19.0)**_
 - Jade (R 11.13.2)
 - Just Enough Items (R 15.20.0.112)
 - Just Enough Resources (B 1.4.0.247)
@@ -40,11 +45,13 @@ Last updated: Wednesday, March 26, 8:02am
 - Mouse Tweaks (R 2.25.1)
 - Mystical Agriculture (R 7.0.23)
 - Mob Grinding Utils (R 1.1.0)
+- _**Nature's Compass (R 1.11.2)**_
 - Not Enough Animations (R 1.11.3)
 - OpenBlocks Elevators (R 1.9.1)
-- Ore Excavation (R 1.13.174)
+- _**Ore Excavation (R 1.13.174)**_
 - ProjectE (R 1.0.1)
 - Security Craft (R 1.10.1)
+- _**Simple Drills (R 1.6.1)**_
 - Simply Backpacks (R 2.1.5)
 - Sophisticated Backpacks (R 3.24.29.1588)
 - _**Sophisticated Storage**_ (R 1.4.29.1527)
@@ -58,17 +65,3 @@ Last updated: Wednesday, March 26, 8:02am
 - _World Edit_ (R 7.2.15)
 - Xaero's Minimap (R 25.3.10)
 - Xaero's World Map (R 1.40.11)
----
-# ALL MOD CHANGES SINCE LAST UPDATE
-### Previous Update: Alpha 1.3 Maeta (Alpha 1.3.2)
-- Building Gadgets
-- Create: Crafts & Additions
-- Enchantment Infuser
-- Majrusz's Enchantments
-- Mace Port
-- Mob Grinding Utils
-- More Enchantments
-- Sophisticated Storage
-- Trial Chamber Port
-- Visual Workbench
-- When Dungeons Arise
