@@ -10,7 +10,7 @@
 
 **ABYSS** is a premium Minecraft experience designed for those who seek the unknown. This repository serves as the central hub for updates, changelogs, and community feedback.
 
-[**Mod List**](modlist.md) • [**Server Info**](Server-Information.md) • [**Download**](modpack%20link.md)
+[**Mod List**](modlist.md) • [**Server Info**](Server-Information.md)
 
 </div>
 
@@ -37,7 +37,7 @@ Looking for specific mods? We maintain a live-updated list of all components inc
 
 ## 👥 The Team
 
-The minds behind the Abyss.
+The minds behind Abyss.
 
 | Contributor | Role |
 | :--- | :--- |
