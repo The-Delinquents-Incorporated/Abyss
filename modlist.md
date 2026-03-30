@@ -27,7 +27,7 @@ Last updated: Wednesday, March 30, 5:51 am
     - Create Ultimate Factory (R 2.2.3)
 - Cyclic (R 1.13.6)
 - _**Delightful Burgers (R UNK)**_
--_**Delightful Sandwiches (R UNK)**_
+- _**Delightful Sandwiches (R UNK)**_
 - Dynamic Lights (R 1.0.10)
 - Enchantment Descriptions (R 17.1.21)
 - **_Enchantment Infuser (R 8.0.3)_**
