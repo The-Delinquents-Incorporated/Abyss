@@ -1,4 +1,4 @@
-# 🎮 Multiplayer Information - `vAlpha 2.0`
+# 🎮 Multiplayer Information - `Version Alpha 2.0`
 > Last updated: March 30, 11:02 AM
 
 ---
