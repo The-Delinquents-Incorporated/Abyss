@@ -1,6 +1,6 @@
 <div align="center">
 
-![Abyss Banner](Repo/bannerv2-removebg-preview.png)
+<img src="Repo/CyanLOGO.png" width="100" alt="Banner Logo">
 
 # 🌌 ABYSS MDPK
 ### *Explore the Deeps & Beyond*
