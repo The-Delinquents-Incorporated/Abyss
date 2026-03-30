@@ -31,6 +31,7 @@ Last updated: Wednesday, March 30, 5:51 am
 - Dynamic Lights (R 1.0.10)
 - Enchantment Descriptions (R 17.1.21)
 - **_Enchantment Infuser (R 8.0.3)_**
+- _**Essential Mod (R 1.3.10.8)**_
 - Farmer's Delight (R 1.2.10)
 - _**Hearth and Harvest (R 1.0.12)**_
 - _**HT's Treechop (R 0.19.0)**_
