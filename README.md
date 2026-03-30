@@ -2,7 +2,7 @@
 
 <img src="Repo/CyanLOGO.png" width="100" alt="Banner Logo">
 
-# 🌌 ABYSS MDPK
+# ABYSS MDPK
 ### *Explore the Deeps & Beyond*
 
 [![Version](https://img.shields.io/badge/Version-v0.0.2.0-blueviolet?style=for-the-badge&logo=minecraft)](https://github.com/The-Delinquents-Incorporated/Abyss)
